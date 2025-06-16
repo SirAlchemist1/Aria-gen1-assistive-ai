@@ -1,5 +1,7 @@
 # Aria Gen 1 Assistive AI
 
+> **Note:** For detailed setup, usage, and troubleshooting instructions, see [aria_ai_caption/README.md](aria_ai_caption/README.md).
+
 ## Project Overview
 - Real-time captioning pipeline for visually impaired users
 - Runs locally on macOS M3 Pro, later scalable to GPU cluster
