@@ -89,7 +89,7 @@ python aria_server_caption.py --interface usb
 - `llava_laptop.py`: Enhanced version with Q&A
 
 ## Contributors
-- [Your Name](https://github.com/SirAlchemist1)
+- (https://github.com/SirAlchemist1)
 
 ## Contact
 For questions or contributions, open an issue or contact [SirAlchemist1](https://github.com/SirAlchemist1).
