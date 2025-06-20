@@ -1,5 +1,5 @@
 # Aria Gen1 Assistive AI
-
+Prototype build 1 (DEMO)
 A real-time captioning and assistive system for Meta Project Aria glasses, using AI to generate descriptive captions and answer follow-up questions about your environment. Combines computer vision, natural language processing, and text-to-speech.
 
 ## Features
